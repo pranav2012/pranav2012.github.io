@@ -1,5 +1,5 @@
 body{
-background-image: url('back.jpg');
+background-image: url('../media/back.jpg');
 color: #000305;
 font-size:87.5%; /*base font size*/
 font-family: Arial,'Lucida Sans Unicode';
