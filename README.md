@@ -8,4 +8,4 @@ feel free to use my code and help me improve it.
 
 Website: https://dixz4nma31b4q.cloudfront.net/
 
-This Project is Licensed under [MIT License](License).
+ Licensed under the [MIT License](License).
