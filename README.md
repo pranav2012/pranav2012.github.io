@@ -7,3 +7,5 @@ This is My website's Source code made with pure HTML and CSS with all Media incl
 feel free to use my code and help me improve it.  
 
 Website: https://dixz4nma31b4q.cloudfront.net/
+
+This Project is Licensed under [MIT License](License).
