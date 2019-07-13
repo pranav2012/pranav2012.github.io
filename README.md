@@ -8,8 +8,5 @@ feel free to use my code and help me improve it.
 
 Website: https://dixz4nma31b4q.cloudfront.net/
 
-<<<<<<< HEAD
- Licensed under the [MIT License](License).
-=======
-Licensed under the [MIT License](LICENSE).
->>>>>>> 3df234ac3dfd809423945cd8727fb5175cac59c6
+Licensed under the [MIT License](License).
+
